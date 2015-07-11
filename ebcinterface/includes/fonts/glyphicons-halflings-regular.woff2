@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>EBC</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="file:///home/murilo/Documentos/FREELANCE/ebc/includes/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="jumbotron.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Pauta Livre - EBC</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron" style="background: url('./includes/imagens/pauta-livre.jpg')">
+      <div class="container">
+        <h1>Pauta Livre - discussÃµes</h1>
+        <p>Sugira sua pauta de discussÃ£o aqui em nossa plataforma.</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">NÃ£o fique parado e sugira &raquo;</a></p>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Top 5</h2>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <br /><br />
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>  
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <br /><br />
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <br /><br />
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              </div>
+          </div> 
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <br /><br />
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div>                                       
+        </div>
+        <div class="col-md-4">
+          <h2>ultimas Pautas</h2>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>Quando vem o Lorem?</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div> 
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div> 
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h3>De onde vem o lorem Ipsum</h3> <span>categoria1</span> | <span>Numero de votos: 10</span>
+              <a class="btn btn-default" href="#" role="button">Ver detalhes &raquo;</a>
+              <br /><br />
+            </div>
+          </div>             
+       </div>
+        <div class="col-md-4">
+          <h2>Sugira AGORA!</h2>
+          <p>Sugerir a pauta, Ã© simples rapido e legal, preencha o formulÃ¡rio a baixo:</p>
+          <div class="panel panel-default">
+            <div class="panel-body">
+                <form >
+                  <div class="input-group">
+                    <span class="input-group-addon" id="sizing-addon2">Nome</span>
+                    <input type="text" class="form-control" placeholder="Nome sobrenome" aria-describedby="sizing-addon2">
+                  </div>
+                  <br />
+                  <div class="input-group">
+                    <span class="input-group-addon" id="sizing-addon2">E-mail</span>
+                    <input type="text" class="form-control" placeholder="xxx@xx.com" aria-describedby="sizing-addon2">
+                  </div>
+                  <!-- Small button group -->
+                   <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                      Dropdown
+                      <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                      <li><a href="#">Action</a></li>
+                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Something else here</a></li>
+                      <li><a href="#">Separated link</a></li>
+                    </ul>
+                  </div>
+                  <p><a href="#" class="btn btn-default" role="button">Enviar pauta jÃ¡!</a></p>
+                </form>
+            </div>
+          </div> 
+        </div>
+      </div>
+
+      <footer>
+        <p>&copy; Company 2014</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="./includes/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }æË%>Ó`ÊÆÏ‚¦ƒAšú’¡ê‰ë¹^ ˜›AP§<=±µ³¼ç_O¸Ä èîæëx™„Pfy
+y`Iû'ÖJU¤n!Àepn–wˆÔ"îL9q
+âdíß7	ÊqC{¥XªzuaÎØƒÔ’Éå‚œRAå'±LYäÖq^œêd¼m[÷¾$ìoıÌÉ`îp6?Ïßİx_ªñò™Ã²—e˜e‚èd2ˆªã}œ?8è‹à–=¦Ñ•-ayN¤¥oİ*
+WV¢OLV)uÊcJegJ,š6¤3á€	ÑÍ)ÈÏ£—q=@nIˆRĞ_ ¢ l¸ú ’b°L_¸ˆKÈ™¢O³ƒ-zànÀiM:şYõÕXe>Åwu^5qŠ°K3Júë4êé‹-ª²
+—8)Ì¨ö{7d!™Ê÷ûI}QÛ¢šÄD•m.V´èôˆ'8µbƒFğ~ÔèV,ÑÚm7~m¨Ö†Ù\}áO¡Vå]e_‘KÂíÆÜÍ—0PøÂÆ$ EÚ®]É)d\
+æÛ“|Mv½/
+8lÈå™îR´!¨G\İ„4‰D&êW ŞqC‘èİ™¾j“nÔØ0efæ?€­ã÷yQƒPä§<§ZªWXıXáIJÒ†§5—¥‹{FŒ$'á§×ÏØØsX\X¸251¦9”eÒÏ¦DôdÖ¯& ¾‚ÔA™‡´ÇQApÑGˆ<b+kæc&ú³ÚîÈ¡%»øwÏÅz­xî^}õ™×ZZÌãe§>5ÿãñh‘ª›©ziÖ8pÓ0Ó ¾í2CxFàßEOåÑUûZ÷‘ëøQqÔ¯Îéî8=@´Qàœ3ÿ|K¼ÁÖ+ÖYêÿµ±HÕ^ëºæìñ‘ìjhú§[æ6“¾¢Ó8oŞ·´¬¥?~ïÔQÑG"Çß=¬œBi”Ú©ìÒú›ÚA#¢OY3@¿×Óu&èM³›ùwà0ÖÜYàpù°_åù<È+cïGæŠ„½Hû dízg—¢gˆr¦õ›6MNıTÚ‰Åg÷w6ôdli.BÎúÊøÁÁ‡e‰|\õ1~¢z2{õÖWô¢¿#?öŸ·0ê°tbğÇÂÅÕ•Å“ë-[(6JYâYçYæ$ÒƒóI#ñER|à”µÔ{õ…S
+;q\
+Ì“IıÀQø)J#vF˜ô+hÑIÅKd”‹´…Ï,Èë€¦+é±ãå08 BÁì’å˜iìù,dÈ*]b7¨¬s‰Mİ?Â]ÔiÁ1«ÃÒ§.odlÚTÖ0İÎù'®Ìí‰şÂŞ›}}GÁCè+§¢Ü£}ï âÅ×¬3ºªÖH`°€Qß %ÜZ­äû‚A-l«›.U/½\Ş—'YÄl½,o?ÔÒ…ß÷¬ë¸eT2Mô¸İâÖå¥5Sægœ"”ı‘ıÔgÑÄ·Ê³‘ƒOŞXêX7k¤Ç·ß€-ô•ùèÉ|¬ßßùŸ)o&¸Jã¤²±ûxë¤‡ÎNnQƒªz“mÁ¼.âÒÿ¼‹´»İíãé”nì-Û¬ù«¯+†S^Q¡=ğåÃğ‹à	©ãÁ!®h#MÙ.NÉ,ax¼‚áAıØ3¬h¹è(	›Ef^á6)Øô!¹iÎdôÊ†I‡¡~Â~ö½º|åøåøÅósü¦³Ì”„\ìÉãF yÓl§oúí;2wœpÇú2al!9¥àèOw`A´"Ê
+à{óU}  Ïë rli¶% –ãÑ¢Ñ,q7`ŞHøf7ø	m}Í¦Gdw¿:ÌwDÓÍ‚×=%g“9E®O#OÒŸŒ$x.(Y5eö‘üœ°"r„ãÒ’HiÛÚ&öMø!™ï†|¢k…â¸ç“íFÆ È‚L?ğˆ¨d}$-ÄÁ€ñ`Á¯à‡¾ğ ÓËP¬Ã½oD1ùqè%Áe¬0£tge¨SœéŒ]ö_•áÎò©qİ")º§h§Ÿ®A²bóóÕc[×ëı{&Vk‹	œ«Y†ŠœøàçñÊuœJšÕ÷nºø÷¸ÚLy¾Ÿú1ÈÍÈ†ˆı.fq”ML÷™À!ÖšŞãŸl¤{ÆÉë¾ês{á·ùç¹È›$:ì„†Öc‘38ŠéÏ»;A›#­‡ºŸ:ìkÈö&XèÂ%™>*WD« ¿^(d Sï§i ÿmEÉb¡ ª’FYEÀ¨lGÍ7s3µGEİWÅ]EbµŸº¾B¬jœÒ©ÊÎöîw»Ä'|Ô}‚µP*‚Ğ…­ÃŞhìÀÔt&e…bÁyŒÈ!‰²
+ÿY|ğQÇ÷ø­,¬˜èn—´^£+¦Pvg;ÄÊ¡DÀ;S†É?ŠvPºHRş•HÂFdÇWÃwÛU39`…<Ir€D•İ‚cAEZ4mŞâK€zI®>¥²jø…³y¾9œ9FQî0b|€†„ÅFíÜŸLpØLãd° ¼>´l— Ÿ°=5”"P²£y(ª!ŠhõGÜ•\ÖjÖœØ¹oYdº¬"ŒaÛ|ãm·²²g4 ÷ö“2Jy$“ê§±Ñ"–8Wß3}mòÁ_-ööİ‹ÆÇë}ôt¥åc<M‡%åa‹G¿+`7•MÊ»ä˜_&ìhØ¦àîU­ÖQÕklÅ	q&©Måùû:ÿ»zùfş€¡ö@¬‰X”«D[)¬Û26ºÇf³í©,}­»aÖJìÊ>sI7šQ/; »Qò'¦jF>W]/wšôÎÛ™³GdK•Q6´ìÔÎ®6Ğ§Lmäñâ¹ı¨u rÓø?üº²^ÈàNbw”ÖT´í!’M+‚}$ë¡!š™s€ÚJ\h4Ú°²ŸÔ$ıh%œ¢x€W¢ÈUĞ€<!ÈÁpEi¡¨2wÌşâ²—…X•X…TÅ^e9¥?egøÛ›
+>(0SÖµÄ²7ÆwÌ—1˜] \eLå÷Ğaµe¼"£‚ZazÄÅ¼Á²­ šB{Á™¾Ü­RÖú™m`Kˆ	Œ[Á¦ÇŒXCfãí¿A™$N	/@Ú+†¥:4ñÉ0FÁÕ!6œ›´ólÕ´wgÀcùa‘e†…B§>3Hı]¦ÛŞv¸Ãµ4h‹:‹=##ÙvXî˜òÇ±º²eÈg»iÊCš(Pf¸ê]_˜¸Ğ{6
+ÔZ¨³b™ÍªĞÙ;ÕÓXÒş¿~ÇE-ğêŠ1¾È4èd¥³,óìäïÂ-¤ïJğJOtİwyÄ[şßt¯¨µT¼ÒâôYfêû×¼’Ï‹né¿9ı\¤iÉ„]ã€Gâ…üe“ÍÜÕªÕïOÊ›~‡—:âª5Æç®íêP»GçØ’^ú[æ«†zÓêŠ<ªaUÖ–è6åÛZ‚­J‡Óˆ+‘d—?ï‰ÔÓÇ†s—?0”'d·°‘ŞÜWĞi*¬ıº…ª¯Êñk)Ëtkv*1¦¨TÏ2oŞëXıçëùÅıEöéücX¾À†­Ô×bIß/ÔÏ(¿¿Ğ5¼ìÁİC¢Î¢‡®m¾pê}Ç¥ÑgAš‚‚¬%×d¹€¢ßi:Í(D³3»2µ1­0ò/°Oe§¦‡…=Œ¥™õĞÁ¥õMäSP.Ğ_’9Ašj •leà‚·‰‚æDÚğ›É§ğèŸÑ‚'”ĞB@Ğ?7(ÈÀ½öñ* iµÔk?¬»UÉIĞ'm>³?ò–§AH%ïî‹–tÅáZğ­ùã*ÀßÏ¨$Åv3Sß	¯àÎR@şÂ–õs*õ·…–%œ…{µRÖ#tgocåŸ±¯¨NèBn;éœ,F-L~Ş[gstÏÆÜ,™~YÁ$^î7?ÍÃù \é×£ğ•%ûMü_Ò>Õ—·ò"·|éY«Ûîò·º@¸ÂÙgªôª:eæCyØÙõìëáÊ
+M€ñ¯Şeõª¼†½Lbşı¿r3s!-'±–ÆË]&}Ó™åıÔ<XWs¸Ç[ERËÑ–ªİ/Ñ°áÒĞ>	GmFEŒÿ¶aÎ€‡˜Ò½•´´àg/¨yK¯*mrÍìO¯
+5ÚÍáû(vW6ØÌúz5Yë¤®Š=”t™“5•ûh'¤Õ*ÀŸ¨:ğjì ğââ™B6¨´òşBS’XÁ*ßj{Äğ©˜“"MÁ˜ íá8$úé·M¹=$˜%”¾bíÒZ;°BÖ©5x²ër+n+*ß©¯¨ã::ˆ¨¦ã¦ü—å	•¶Ÿ~FnM;9h}‘¨‚RÒ®uÔtB¸wTíÁÖÓ·ÆùA÷°UÈ^",hı£ª¥[;4v°7/ëğŞ…´Ûõ^E<…9E6•ê*§h‡½GbËÛ?ÃäÍ¹(ôÖ|–Í³>kc<HœÎĞÍ'e¾ÔfQÃ4Û §Yò'§Í‹0òœ	Ä™úo¦L´
+Õ¶µ2<…Ÿõ&é?ŠÈO%î/îÕŞ¸ï‚r‘å7¶n<†2$ùôfëISGÏ‚ÊAôÙJ¶õ]˜Í±˜ü õÃ0°z˜t¯…©]¥§lñï¬m
+wXg)¦Î2­YØFìğ¾%@n5ß”ÛÀ*¬à@œ9‘!¤CÒaÅõúó!K€&; éÎ@ÂüCoæ„‡v $ş  ÏÆ— [À¯r
+V®aË•/ì]`I·†;¡œÇ‡°êâl-XÚójÆn=«Ó\vÉ¯Î«kõ“Q±ê7ç€Ówºª’O×ã°º³H/ûÏòP-µyôejó_kı?³ºr“iòsS
+ÃZš’¨ªà©>şU
+AÕ*AÒCüpjÔŸ¨uß `©Ç¥Í…êaA†íä·pKü^•öpmQÆÕ±	º§šO&Z`ğG<ŸÂ9™·ƒv#å>²  ÅÀ ´=$½Ê
+ìZ¡`BÓhË½qò,şæZ½º{[¸t
+şé+x_ª¬ò–)Îş¦THÆ©nÚ8z•çûA¦>©œ$¤T¯k|VÕpÛìÍ‹µno©E­º)ÄÅ¿ó‡‡QûÍàÆæáÛsìŸœKÚ_İUyÛ&éÆQ¡Æ¤Áëò‡UÖÊıùl½
+¯ c½Í×‚ésØ­ï©ŠQ–R»Œ§€oP}0Ò%&Ö;™2õ‚íL3¤“#8]ìyfé<Õ*” ÔûQ2ôô23´ftU‘{€9€ ÖŒÙD 3·›~äØMp7î>@2âº(Š+Ğ·À~¸vA´}Ä-mZ*ç° µT0Óƒ‘
+´é=Pç„W¬áT²ÿğN0ä¶“@O"Y"s‰è#03ÅœW {Oj%¨ñõşYpT&ôÛ÷ÀZğ@r0[W’öôL{dœ‰G¸ı—aR2˜•1,"\ä—H¤°º9&æKÁ1­bŒg,mçVÁ¨À©¸ªV¯œ®š³:³v³z³>Ş“W®Æ®¦­É_åTê¬êšq²Í9³–)jÜ¯šWµ.9¢Î2Ÿß4K÷,±Cv6tİğD¯~TøâÎ³‰6æ=˜°@ÌlS…3Wt
+¥åĞ¾Ø²0JA²şÍ#˜éXZ—ç'¸L*ôj :®{ª¯JÌ‹nƒı%ŞWû§isşÆXÿúöP==Mùİs`5vI8-ğç(Ü>2k˜Ï3ş‘bKeON„’¼°½äğãûúd‡QïÕôû\¤»Ss¬øÈ®K:İ7ây?*kùaÃ=Ÿÿ D›ÍÜ‘Ø´ˆÓ¦Yp”İ5Î
+œ8
+„!7m(œš†"ê«D1Qç¢‡o•Ó¨Ğe˜yæR‹«íóù‰ˆàF_»ôh0õ¨·7tò ¶Ûƒ$«dú à`Ñ¨ÄÀÿ@^<b‘ºáE+ÉÚ \Â§O‰p Jò€ì:øÍÌû‘öcê‡ÏÅ0¯ÌI1ÁóÁ!¯ï¡Ÿ¿'dšPØİI.ÄinÀwlÑ»è³/81®Ò½Nl0Bt¾F÷$ÒF8xq „?5ğB’ÚôÓ±ãºÀ26RcÉæq‡?®}*GØCŞ‡q’ä(ÁR}¸ƒ
+\›2ZtÚ‚-PòŸóa ¾«‚³šsÃ7¨`M@$ŸH[Ë˜8Ã´j„Ì“iØ0Ól’÷¡¼õAâşŒLÖ²û”¦¸¦ËÀÊ¶”BZI­MO Aó`‡(W} =®ò³²GâoxIÒ>tuèÚ‘j†¥
+cê'ñIqÎ¢(¸ñ;GrIè½•õC¨ËÉ›”l£¹Z¥¾?=‡'Û‹^ÙÕ…»QB¾=ĞË¯YzÙyRß9tÆşGX£G¿LSÅÙÅ´å¾-Or/5•;>½¶2N»¬}§Ë8äk9º‰‹¼µT˜ùV¡
+[¯¶gúJù™/Ğ´–
+ ¸Fõ†½éol®_í1%l”ß·Û­àÿó¶ê¢¿ÄêğÊ-Fº"—
+’k—Ï‰âú£ÿİöU“/u1íbòéÇ„"­ôïpm·÷İ‚{]£¥| XÂÿ¹<‚A‡Ñï?²LY8çaWÈË_ˆ2=yšzfİjí&t°¯ƒ6¼İÆ¾\‘XÀXõ ËÜ[·ò·=oï÷,ÕfE¶ì²KvVë-nZ´·}]"¼EpêáUE[¾VÒ§yÑœÁ¹Ç¸µ¸Ú¸¥¹ş\Ñn&ÚSŞ§í÷ƒç¸Y˜ïKĞN÷‡Ã¬Kaù€^töœÃŞĞ¾'¿NÁ¡¯z…B!¢P¾‚ŸyèN=ú>ä'HÔp~|›"_D¿6gQ×¥,ñJE.Ñ…5.ÚùuwuwŠe‹Zi°«7§ÃFj¶vï§c/¿‡‚ş±‹ºLÌæÕwñ÷ù‡úøş…y°Ÿ£;ÄÅĞ¯³äêQó‰”æ²ÌEÛb}ú˜ù³ºëæLÿ¼ Õ¶¼§8ø¥Ÿ˜üşÑq½ğ¶¶ËË-¯Ï_ı÷í9Ùùóí>tğêˆÆ´Ï²ó|z«ÜñZ›C|]	Í7OÌ°´<ë³ƒŞõ—E†Xóäj‘š€‰#G,q¨RÑ„O@ÆIãõe€CÌ}Í¢O¬.ÉÒ“«§.*cöa‚ö@{­ğ<4Û²ûÃskDPêĞ²=µ
+z4á`Ëtäùi|‘è ÂìÌëù¼+TÕÌ©ÓqØq?m«m˜˜ µµËµ—ÎKWåÿyoâ_/Ç˜i<mÕoæs÷&]n)iAÃ^``¯È—òĞw&&KU5<¸µ²‹hU|Wº¥YZh4 H=`½e- ±ÿ4»URS0çxâ€ç”ë:¬bÛ€C÷,·ÂÅ­DZ=LC¦NpN6n¹Ò ê]1S&¤b—EjÓ~ş…y6|ß2@ÀµÆ\í{G$•İ?‚~¦6:–V'†ÏÆ|F{ÆxÆrïƒ(¶665¦<Ö)¼qŞ.¬/Ë©#Kù`½H›Œ”Sl›e¿3êèÈ¥}a®c¨egxí¼2í<~–´{•U8
